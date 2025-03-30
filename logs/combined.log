@@ -1,0 +1,20 @@
+{"level":"info","message":"Calculator microservice running at http://localhost:3000","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 5 + 10 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3020","service":"calculator-microservice"}
+{"level":"info","message":"Addition: 5 + 10 = 15","service":"calculator-microservice"}
+{"level":"info","message":"Subtraction: 5 - 10 = -5","service":"calculator-microservice"}
+{"level":"info","message":"Multiplication: 5 * 10 = 50","service":"calculator-microservice"}
+{"level":"info","message":"Division: 5 / 10 = 0.5","service":"calculator-microservice"}
+{"level":"error","message":"Both num1 and num2 must be valid numbers","service":"calculator-microservice"}
+{"level":"error","message":"Division by zero is not allowed","service":"calculator-microservice"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3050","service":"calculator-microservice","timestamp":"2025-03-29T02:12:24.818Z"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3050","service":"calculator-microservice","timestamp":"2025-03-29T02:16:47.691Z"}
+{"level":"info","message":"ADD: 10 add 5 = 15","service":"calculator-microservice","timestamp":"2025-03-29T02:17:14.708Z"}
+{"level":"info","message":"ADD: 10 add 5 = 15","service":"calculator-microservice","timestamp":"2025-03-29T02:18:32.006Z"}
+{"level":"info","message":"Calculator microservice running at http://localhost:3050","service":"calculator-microservice","timestamp":"2025-03-30T03:07:16.055Z"}
+{"level":"info","message":"ADD: 10 add 5 = 15","service":"calculator-microservice","timestamp":"2025-03-30T03:07:42.498Z"}
+{"level":"info","message":"SUBTRACT: 10 subtract 5 = 5","service":"calculator-microservice","timestamp":"2025-03-30T03:12:39.498Z"}
+{"level":"info","message":"SUBTRACT: 10 subtract 5 = 5","service":"calculator-microservice","timestamp":"2025-03-30T03:12:39.901Z"}
+{"level":"info","message":"SUBTRACT: 10 subtract 5 = 5","service":"calculator-microservice","timestamp":"2025-03-30T03:12:43.788Z"}
+{"level":"info","message":"MULTIPLY: 10 multiply 5 = 50","service":"calculator-microservice","timestamp":"2025-03-30T03:13:27.447Z"}
+{"level":"info","message":"DIVIDE: 10 divide 5 = 2","service":"calculator-microservice","timestamp":"2025-03-30T03:14:01.392Z"}
